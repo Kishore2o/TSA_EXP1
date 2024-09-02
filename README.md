@@ -11,7 +11,8 @@ To Develop a python program to Plot a time series data (population/ market price
 4. Plot the data according to need and can be altered monthly, or yearly.
 5. Display the graph.
 # PROGRAM:
-
+## DEVELOPED BY : Kishore S
+## REGISTER NUMBER : 212222240050
 ```
 import pandas as pd
 import matplotlib.pyplot as plt
@@ -44,4 +45,4 @@ plt.show()
 ![image](https://github.com/user-attachments/assets/9c454ee7-bb35-4e1a-a1c1-57e79da9e1a2)
 
 # RESULT:
-Thus we have created the python code for plotting the time series of given data.
+The python code for plotting the time series of given data was successfully executed.
